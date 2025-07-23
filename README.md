@@ -1,5 +1,5 @@
-# E-commerce
-E-Commerce Website
+# E-com
+# Website
 This repository contains the source code for a modern and user-friendly e-commerce website. The platform is designed to provide a seamless shopping experience with an intuitive layout, secure payment options, and essential e-commerce functionalities.
 
 Features
@@ -32,10 +32,6 @@ Frontend: HTML, CSS, JavaScript
 
  
 
-
-
-
-
 Version Control: Git & GitHub
 
 Installation
@@ -60,9 +56,7 @@ env
 Copy
 Edit
 PORT=5000
-DB_URI=your_database_connection_string
-JWT_SECRET=your_secret_key
-PAYMENT_GATEWAY_KEY=your_payment_key
+
 Run the application
 
 bash
